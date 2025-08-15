@@ -14,3 +14,7 @@ Six different words were written using the six different headers.
 <!--Stickman Shrinks-->
 <img src="https://image.ibb.co/ezDsHo/Shrink_Grow_GIF.gif" alt="Stickman-Shrink" height="200">
 ```
+
+- [x] Start to shrink
+- [x] Keep shrinking
+- [ ] Shrink invisible
